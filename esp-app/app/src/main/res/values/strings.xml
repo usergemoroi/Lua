@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ESP App</string>
+    <string name="start_button">Start ESP</string>
+    <string name="stop_button">Stop ESP</string>
+    <string name="status_label">Status: </string>
+</resources>
